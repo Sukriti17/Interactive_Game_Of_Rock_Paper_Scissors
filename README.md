@@ -84,8 +84,8 @@ Project Structure
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The project structure is organized as follows:
 
-index.html: The main HTML file containing the game interface.
-css/: This directory contains the CSS styles for the game interface.
-js/: The JavaScript files responsible for game logic and functionality.
-images/: Images and icons used in the game interface.
-LICENSE: The license information for this project.
+-index.html: The main HTML file containing the game interface.
+-css/: This directory contains the CSS styles for the game interface.
+-js/: The JavaScript files responsible for game logic and functionality.
+-images/: Images and icons used in the game interface.
+
